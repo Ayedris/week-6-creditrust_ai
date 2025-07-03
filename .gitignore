@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+notebooks/
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# Data files
+data/
+# Vector stores
+vector_store/
+
+# Model files and large binaries
+*.h5
+*.ckpt
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Streamlit/Gradio app state
+.streamlit/
+.gradio/
+
+# Miscellaneous
+.DS_Store
