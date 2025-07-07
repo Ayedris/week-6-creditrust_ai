@@ -36,3 +36,4 @@ vector_store/
 
 # Miscellaneous
 .DS_Store
+chroma_db/
