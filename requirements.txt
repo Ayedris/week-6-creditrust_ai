@@ -9,3 +9,4 @@ langchain
 openai
 gradio     # or streamlit if preferred
 tqdm
+instructor
