@@ -41,3 +41,4 @@ chroma_db/
 ~/.cache/
 *.pt
 *.bin
+chroma_db/ 
