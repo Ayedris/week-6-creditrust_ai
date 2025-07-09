@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
+faiss-cpu  # for FAISS
+chromadb   # Alternative to FAISS (if using ChromaDB)
+langchain
+openai
+gradio     # or streamlit if preferred
+tqdm
+instructor
+accelerate
